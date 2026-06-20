@@ -22,6 +22,8 @@ Transfer learning with pretrained ResNet18 for CIFAR-10 image classification. Bu
 ## Files
 - `Task2_CIFAR10_Classifier.ipynb` — Full training notebook.
 - `cifar10_resnet18.pth` — Saved model weights (Google Drive).
+- ```markdown
+- `INFERENCE.md` — Instructions to load and run the saved model.
 
 ## Tools
 PyTorch, torchvision, Scikit-learn, Matplotlib, Seaborn, Google Colab
